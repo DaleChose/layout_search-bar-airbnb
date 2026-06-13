@@ -20,7 +20,7 @@ body {
   width: 100%;
   padding: 0 16px;
   background: #fff;
-  border: 1px solid #E1E7ED;
+  border: 1px solid #e1e7ed;
   border-radius: 8px;
 }
 
@@ -66,4 +66,3 @@ body {
 .search__input::placeholder {
   color: #687c94;
 }
-
